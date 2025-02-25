@@ -3,3 +3,4 @@ test
 .
 my
 ok
+bye
